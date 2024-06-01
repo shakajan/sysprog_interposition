@@ -3,3 +3,6 @@
 
 # notice
 - `printf` uses `malloc` function itself, so function for printing is replaced by `write` at run-time.
+
+# how-to-use
+- `make` commands: `make compile`, `make link`, `make run`, and also `make clean` to clean the created files.
